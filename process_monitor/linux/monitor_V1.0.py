@@ -3,7 +3,7 @@
 import os
 import time
 
-log_dir = "/tmp/" #设置日志根目录
+log_dir = "/home/lzx/.log/" #设置日志根目录
 
 CMDGetActiveWindowsPID = "xdotool getactivewindow getwindowpid"
 
